@@ -1,8 +1,12 @@
 ## Deusald Unity .gitattributes
-## Version: 1.0.0
+## Author: Adam "Deusald" Orliński
+## Version: 1.1.0
 
 # Auto detect text files and perform LF normalization
-*					text=auto
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
 
 
 # Apply native OS line-endings on checkout of these files...
