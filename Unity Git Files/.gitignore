@@ -1,6 +1,6 @@
 ﻿## Deusald Unity .gitignore
 ## Author: Adam "Deusald" Orliński
-## Version: 1.0.1
+## Version: 1.0.2
 
 ## Ignore all files:
 *
@@ -53,6 +53,9 @@
 !CONTRIBUTE.*
 
 ## Ignore again:
+
+# Mac crap
+.DS_Store
 
 # Ignore UnityVS tools:
 Assets/**/UnityVS

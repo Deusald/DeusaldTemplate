@@ -1,6 +1,6 @@
 ## Deusald Unity .gitattributes
 ## Author: Adam "Deusald" Orliński
-## Version: 1.1.0
+## Version: 1.1.1
 
 # Auto detect text files and perform LF normalization
 * text=auto
@@ -103,6 +103,7 @@
 *.[fF][lL][vV]													filter=lfs diff=lfs merge=lfs -text
 *.[gG][iI][fF]													filter=lfs diff=lfs merge=lfs -text
 *.[gG][zZ]														filter=lfs diff=lfs merge=lfs -text
+*.[hH][dD][rR]													filter=lfs diff=lfs merge=lfs -text
 *.[hH][tT]														filter=lfs diff=lfs merge=lfs -text
 *.[iI][cC][oO]													filter=lfs diff=lfs merge=lfs -text
 *.[jJ][pP][eE][gG]												filter=lfs diff=lfs merge=lfs -text
