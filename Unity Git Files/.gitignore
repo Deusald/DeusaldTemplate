@@ -1,6 +1,6 @@
 ﻿## Deusald Unity .gitignore
 ## Author: Adam "Deusald" Orliński
-## Version: 1.0.2
+## Version: 1.0.3
 
 ## Ignore all files:
 *
@@ -51,6 +51,9 @@
 ![cC]ontributing.*
 !CONTRIBUTING.*
 !CONTRIBUTE.*
+
+#Settings
+!*.DotSettings
 
 ## Ignore again:
 
