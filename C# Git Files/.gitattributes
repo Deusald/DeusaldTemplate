@@ -1,6 +1,6 @@
 ## Deusald C# .gitattributes
 ## Author: Adam "Deusald" Orliński
-## Version: 2.0.0
+## Version: 2.1.0
 
 # Auto detect text files and perform LF normalization
 * text=auto
@@ -70,6 +70,7 @@
 *.[aA][pP][kK]													filter=lfs diff=lfs merge=lfs -text
 *.[bB][iI][nN]													filter=lfs diff=lfs merge=lfs -text
 *.[bB][mM][pP]													filter=lfs diff=lfs merge=lfs -text
+*.[bB][uU][nN][dD][lL][eE]										filter=lfs diff=lfs merge=lfs -text
 *.[cC][oO][mM]													filter=lfs diff=lfs merge=lfs -text
 *.[cC][uU][bB][eE][mM][aA][pP]									filter=lfs diff=lfs merge=lfs -text
 *.[dD][eE][xX]													filter=lfs diff=lfs merge=lfs -text
