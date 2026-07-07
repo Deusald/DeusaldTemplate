@@ -76,4 +76,4 @@ feat(TextBoard)[#84j0fs]: added dictionary for text variables in TextBoard
 - Subject under 60 characters.
 - Never a `Co-Authored-By` trailer or AI attribution.
 - Don't invent task IDs.
-- Use Past Simple
+- Use Past Simple in both summary and body
