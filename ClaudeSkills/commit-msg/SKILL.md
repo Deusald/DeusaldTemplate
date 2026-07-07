@@ -29,7 +29,7 @@ footer
 - `type` — lowercase, from the list below.
 - `scope` — the exact area modified, in round brackets, PascalCase (e.g. `MainMenu`, `Player`, `JobSystem`).
 - `[#taskId]` — task ID in square brackets, if known. If I haven't provided one, ask me for it or leave it out — do not invent one.
-- `summary` — starts lowercase, no trailing period, imperative-but-brief description of the change.
+- `summary` — starts lowercase, no trailing period, brief description of the change in **past simple** tense (e.g. "added", "disabled", "moved" — not "add", "disable", "move").
 - **Whole subject line must be under 60 characters.** Keep it tight.
 
 ### Body (optional but encouraged)
