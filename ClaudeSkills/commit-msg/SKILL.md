@@ -1,6 +1,6 @@
 ---
 name: commit-msg
-description: Generate a semantic commit message from staged git changes and commit them. Use this skill whenever the user says "write a commit message", "generate a commit", "commit my changes", "commit this", or runs /commit-msg — even if they don't spell out the format. Follows a strict type(scope)[#taskId]: summary convention.
+description: "Generate a semantic commit message from staged git changes and commit them. Use this skill whenever the user says 'write a commit message', 'generate a commit', 'commit my changes', 'commit this', or runs /commit-msg — even if they don't spell out the format. Follows a strict type(scope)[#taskId]: summary convention."
 ---
 
 # Commit Message Generator
